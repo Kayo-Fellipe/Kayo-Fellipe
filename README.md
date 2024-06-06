@@ -1,11 +1,9 @@
 ## Oii me chamo Kayo Fellipe e sou Desenvolvedor Front-end Jr!
 
-<div>
-  <h2 align="justified">GitHub Stats</h2>
-  <a href="https://github.com/Kayo-Fellipe/Kayo-Fellipe">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayo-Fellipe&theme=blue-green"/>
-</div>
 
+<p align="center">
+  <a href="https://github.com/Kayo-Fellipe/Kayo-Fellipe">
+    <img width="36%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayo-Fellipe&theme=transparent&show_icons=true&hide_border=true&layout=compact" alt="pedro-jp" />
 
 <div>
   <h2 align="justified">Skills</h2>
